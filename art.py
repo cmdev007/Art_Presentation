@@ -20,7 +20,7 @@ if 'artist' in app_state.keys():
 else:
     artist = 'franshals'
 
-region_artist = {'dutch':["Frans Hals","Rembrandt Van Rijn"],
+region_artist = {'dutch':["Frans Hals","Rembrandt Van Rijn","Johannes Vermeer"],
                  'france':["Nicolas Poussin", "Jules Hardouin-Mansart", "François Girardon"]}
 
 def yeardata(artist):
